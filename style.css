@@ -1,0 +1,16 @@
+.header {
+    height: 2em;
+    background: linear-gradient(#999999, #cccccc);
+    text-align: center;
+}
+
+body {
+    /* background-color: #11ffff; */
+    margin: 0;
+    font-family: 'Arvo', serif;
+}
+
+.bio {
+    position: absolute;
+    right: 10%;
+}
