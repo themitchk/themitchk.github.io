@@ -11,7 +11,27 @@ body {
 }
 
 .bio {
-    display: flex;
-    justify-content: flex-end;
-    margin-right: 10%;
+    /* display: block; */
+    /* justify-content: flex-end; */
+    /* position: relative; */
+    background-image: url("./genji.jpeg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    position: fixed;
+    /* background-size: auto; */
+    /* max-width: 100%; */
+    min-height: 100%;
+    min-width: 100%;
+    width: 100%;
+    height: auto;
+}
+
+img {
+    max-width: 100%;
+    height: auto;
+}
+
+.coverText {
+    color: white;
 }
