@@ -11,6 +11,7 @@ body {
 }
 
 .bio {
-    position: absolute;
-    right: 10%;
+    display: flex;
+    justify-content: flex-end;
+    margin-right: 10%;
 }
