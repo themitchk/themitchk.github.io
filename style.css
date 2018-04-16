@@ -14,11 +14,10 @@ body {
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
-    position: fixed;
-    min-height: 100%;
+    position: relative;
     min-width: 100%;
     width: 100%;
-    height: auto;
+    height: 100vh;
 }
 
 img {
