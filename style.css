@@ -5,22 +5,16 @@
 }
 
 body {
-    /* background-color: #11ffff; */
     margin: 0;
     font-family: 'Arvo', serif;
 }
 
 .bio {
-    /* display: block; */
-    /* justify-content: flex-end; */
-    /* position: relative; */
-    background-image: url("./genji.jpeg");
+    background-image: url("./hero.jpg");
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
     position: fixed;
-    /* background-size: auto; */
-    /* max-width: 100%; */
     min-height: 100%;
     min-width: 100%;
     width: 100%;
