@@ -10,7 +10,7 @@ body {
 }
 
 .bio {
-    background-image: url("./hero-mobile.jp2");
+    background-image: url("./hero-mobile.jpg");
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
@@ -22,7 +22,7 @@ body {
 
 @media (min-width: 1080px) {
     .bio {
-        background-image: url("./hero.jp2");
+        background-image: url("./hero.jpg");
     }
 }
 
